@@ -1,0 +1,39 @@
+body {
+    background-color: #fff8f8;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+
+h1 {
+    color: #b22222;
+}
+
+
+h2 {
+    color: #333;
+    border-bottom: 3px solid #b22222;
+}
+
+
+h3 {
+    color: #555;
+}
+
+
+p {
+    width: 70%;
+    margin: 20px auto;
+    line-height: 1.8;
+}
+
+
+img {
+    width: 300px;
+    border-radius: 15px;
+}
+
+
+a {
+    color: blue;
+}
